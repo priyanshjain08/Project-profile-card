@@ -15,4 +15,4 @@ A clean and modern **profile card UI** built with HTML and CSS.
 - CSS3
 - Font Awesome
 
-Site live at https://priyanshjain08.github.io/Project-profile-card/
+https://priyanshjain08.github.io/Project-profile-card/
